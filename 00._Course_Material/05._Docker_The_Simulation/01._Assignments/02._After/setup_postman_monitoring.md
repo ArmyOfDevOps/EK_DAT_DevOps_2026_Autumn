@@ -14,6 +14,8 @@ See your monitoring usage here: https://web.postman.co/billing/add-ons/overview
 
 And see the running monitors and amount of request used here: https://web.postman.co/usage/monitors
 
+Another limitation exists when creating teams. Avoid creating teams to avoid running into further limitations with Postman monitoring.
+
 ---
 
 ## Create collection
@@ -22,8 +24,9 @@ You must create a collection in Postman first. A collection is a group of reques
 
 https://learning.postman.com/docs/getting-started/first-steps/creating-the-first-collection/
 
-You can also import your OpenAPI spec file to get all the requests. Remember to only set up a monitor for 1 request because of the limitation discussed above. 
+Because of the limitation mention above, you should create a collection consisting of only 1 request for the monitoring.
 
+There are 2 ways to set up monitoring. 1 is to find Monitoring in a different place. The method below shows how to set up the monitor on the collection.
 
 ---
 
@@ -143,16 +146,6 @@ Here is how you can find the monitor under the collection:
 This is what the monitor overview will look like after a multiple succesful runs:
 
 <img src="./assets_postman_monitoring/monitor_5.png">
-
----
-
-## [Optional] Consider creating a team to enable collaboration
-
-https://web.postman.co/purchase?quantity=1&utm_source=postman&utm_medium=app_desktop&utm_term=upgrade&utm_content=navbar
-
-Beware that free teams have an account of up to 3 members.
-
-It is fine not to create a Postman team and just have one person be in charge of the Postman monitoring.
 
 ---
 
