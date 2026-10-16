@@ -408,5 +408,59 @@ Has read all the course literature and can talk about the content.
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
+| 8
+| Oct. 16
+a|
+Introduction
+
+DevOps
+
+DevOps is People
+
+Postmortem and Incident Response
+
+Continuous Deployment
+
+Reverse Proxies
+
+// link:00._Course_Material/08._Continuous_Deployment/02._Slides/01._introduction.md[Introduction]
+
+// link:00._Course_Material/08._Continuous_Deployment/02._Slides/02._devops.md[DevOps]
+
+// link:00._Course_Material/08._Continuous_Deployment/02._Slides/03._devops_is_people.md[DevOps is People]
+
+// link:00._Course_Material/08._Continuous_Deployment/02._Slides/04._incident_response_postmortem.md[Incident Response and Postmortem]
+
+// link:00._Course_Material/08._Continuous_Deployment/02._Slides/05._continuous_deployment.md[Continuous Deployment]
+
+// link:00._Course_Material/08._Continuous_Deployment/02._Slides/06._reverse_proxies.md[Reverse Proxies]
+
+a|
+link:00._Course_Material/08._Continuous_Deployment/01._Assignments/01._Before/deploy_to_github_pages.md[Deploy to GitHub Pages]
+
+link:00._Course_Material/08._Continuous_Deployment/01._Assignments/01._Before/read_about_gitops.md[Read about GitOps]
+a|
+// link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/continuous_deployment.md[Continuous Deployment]
+
+// link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/fts5.md[FTS5]
+
+// link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/postmortem.md[Postmortem]
+
+// link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/smoke_testing.md[Smoke Testing]
+
+// link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/user_feedback_survey.md[User Feedback Survey!]
+
+// link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/hadolint.md[Hadolint]
+a|
+// Has a clear view of different definitions of DevOps and is able to conjure their personal definition.
+
+// Understands the concepts of the principles of *Flow*, *Feedback*, and *Continuous Learning and Experimentation*.
+
+// Can argue for the importance of carrying out a postmortem and knows how to approach conducting one.
+
+// Can recall various ways to achieve continuous deployment.
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 |===
