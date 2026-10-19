@@ -409,58 +409,114 @@ Has read all the course literature and can talk about the content.
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
 | 8
-| Oct. 16
+| Oct. 23
 a|
-Introduction
+// Introduction
 
-DevOps
+// DevOps
 
-DevOps is People
+// DevOps is People
 
-Postmortem and Incident Response
+// Postmortem and Incident Response
 
-Continuous Deployment
+// Continuous Deployment
 
-Reverse Proxies
+// Reverse Proxies
 
-// link:00._Course_Material/08._Continuous_Deployment/02._Slides/01._introduction.md[Introduction]
+link:00._Course_Material/08._Continuous_Deployment/02._Slides/01._introduction.md[Introduction]
 
-// link:00._Course_Material/08._Continuous_Deployment/02._Slides/02._devops.md[DevOps]
+link:00._Course_Material/08._Continuous_Deployment/02._Slides/02._devops.md[DevOps]
 
-// link:00._Course_Material/08._Continuous_Deployment/02._Slides/03._devops_is_people.md[DevOps is People]
+link:00._Course_Material/08._Continuous_Deployment/02._Slides/03._devops_is_people.md[DevOps is People]
 
-// link:00._Course_Material/08._Continuous_Deployment/02._Slides/04._incident_response_postmortem.md[Incident Response and Postmortem]
+link:00._Course_Material/08._Continuous_Deployment/02._Slides/04._incident_response_postmortem.md[Incident Response and Postmortem]
 
-// link:00._Course_Material/08._Continuous_Deployment/02._Slides/05._continuous_deployment.md[Continuous Deployment]
+link:00._Course_Material/08._Continuous_Deployment/02._Slides/05._continuous_deployment.md[Continuous Deployment]
 
-// link:00._Course_Material/08._Continuous_Deployment/02._Slides/06._reverse_proxies.md[Reverse Proxies]
+link:00._Course_Material/08._Continuous_Deployment/02._Slides/06._reverse_proxies.md[Reverse Proxies]
 
 a|
 link:00._Course_Material/08._Continuous_Deployment/01._Assignments/01._Before/deploy_to_github_pages.md[Deploy to GitHub Pages]
 
 link:00._Course_Material/08._Continuous_Deployment/01._Assignments/01._Before/read_about_gitops.md[Read about GitOps]
 a|
-// link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/continuous_deployment.md[Continuous Deployment]
+link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/continuous_deployment.md[Continuous Deployment]
 
-// link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/fts5.md[FTS5]
+link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/fts5.md[FTS5]
 
-// link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/postmortem.md[Postmortem]
+link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/postmortem.md[Postmortem]
 
-// link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/smoke_testing.md[Smoke Testing]
+link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/smoke_testing.md[Smoke Testing]
 
-// link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/user_feedback_survey.md[User Feedback Survey!]
+link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/user_feedback_survey.md[User Feedback Survey!]
 
-// link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/hadolint.md[Hadolint]
+link:00._Course_Material/08._Continuous_Deployment/01._Assignments/02._After/hadolint.md[Hadolint]
 a|
-// Has a clear view of different definitions of DevOps and is able to conjure their personal definition.
+Has a clear view of different definitions of DevOps and is able to conjure their personal definition.
 
-// Understands the concepts of the principles of *Flow*, *Feedback*, and *Continuous Learning and Experimentation*.
+Understands the concepts of the principles of *Flow*, *Feedback*, and *Continuous Learning and Experimentation*.
 
-// Can argue for the importance of carrying out a postmortem and knows how to approach conducting one.
+Can argue for the importance of carrying out a postmortem and knows how to approach conducting one.
 
-// Can recall various ways to achieve continuous deployment.
+Can recall various ways to achieve continuous deployment.
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 9
+| Oct 30
+a|
+Introduction
+
+DevSecOps
+
+Docker / Firewalls
+
+Security in GitHub
+
+Continuous Testing
+
+// link:00._Course_Material/09._Testing_Security/02._Slides/01._introduction.md[Introduction]
+
+// link:00._Course_Material/09._Testing_Security/02._Slides/02._devsecops.md[DevSecOps]
+
+// link:00._Course_Material/09._Testing_Security/02._Slides/03._docker_firewalls.md[Docker / Firewalls]
+
+// link:00._Course_Material/09._Testing_Security/02._Slides/04._security_in_github.md[Security in GitHub]
+
+// link:00._Course_Material/09._Testing_Security/02._Slides/05_continuous_testing.md[Continuous Testing]
+
+a|
+link:00._Course_Material/09._Testing_Security/01._Assignments/01._Before/registering_domain_onecom.md[Registering Domain: one.com]
+
+link:00._Course_Material/09._Testing_Security/01._Assignments/01._Before/security_hardening_github_actions.md[Security Hardening: Github Actions]
+
+link:00._Course_Material/09._Testing_Security/01._Assignments/01._Before/whoknows_variations_security_testing.md[Whoknows Variations: Security Testing]
+a|
+// link:00._Course_Material/09._Testing_Security/01._Assignments/02._After/fail2ban.md[fail2ban]
+
+// link:00._Course_Material/09._Testing_Security/01._Assignments/02._After/harden_yourself.md[Harden Yourself]
+
+// link:00._Course_Material/09._Testing_Security/01._Assignments/02._After/security_breach.md[Security Breach]
+
+// link:00._Course_Material/09._Testing_Security/01._Assignments/02._After/setup_https.md[Setup HTTPS]
+
+// link:00._Course_Material/09._Testing_Security/01._Assignments/02._After/implement_tests.md[Implement Tests]
+a|
+// Can explain the DevSecOps mentality of shifting left and different ways to ensure security in various steps of the DevOps 8.
+
+// Can bring up different types of security testing. Can explain SAST vs. DAST. 
+
+// Knows how to security scan a Docker image. Knows how to set the least privileges for the user.
+
+// Understands the IP tables problem of Docker and can suggest a solution. 
+
+// Understands the mentality of continuous testing. Can mention different types of testing and where they fit in the DevOps 8.
+
+// Can explain shift-left vs. shift-right testing. Can bring up examples of tests in each category and the benefit that they provide.
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 |===
