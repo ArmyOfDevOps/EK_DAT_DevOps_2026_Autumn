@@ -2,8 +2,8 @@ GROUP_REPOS = [
     {
         "name": "JOMS",
         "gitLinks": ["https://github.com/JOMS-inc/JOMSearch.git"],
-        "backend": "http://20.91.229.193:8080/",
-        "frontend": "http://20.91.229.193:8080/",
+        "backend": "http://20.91.190.221:8080/",
+        "frontend": "http://20.91.190.221:8080/",
         "monitoring": "",
         "stack": ["go", "SQLite"],
         "documentation": [],
@@ -33,8 +33,8 @@ GROUP_REPOS = [
     {
         "name": "MaxiKnows",
         "gitLinks": ["https://github.com/maxiknows/maxi-knows.git"],
-        "backend": "http://68.221.17.27:8080/",
-        "frontend": "http://68.221.17.27:8080/",
+        "backend": "http://40.89.161.196:8080/",
+        "frontend": "http://40.89.161.196:8080/",
         "monitoring": "",
         "stack": ["Go", "Go Standard Library", "SQLite"],
         "documentation": [],
@@ -53,7 +53,7 @@ GROUP_REPOS = [
         "SQLite3"
         ],
     "documentation": [
-        "https://github.com/JacobMagnusBardie/WhoKnowsWho/blob/dev/backend/API-specs/swagger.json"
+        "https://github.com/JacobMagnusBardie/WhoKnowsWho/blob/main/backend/docs/swagger.json"
         ],
     "sla": "",
 },
