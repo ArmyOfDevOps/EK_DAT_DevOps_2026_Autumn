@@ -64,8 +64,8 @@ Feel free to make changes to the frontend but the following elements, ids and th
 
 | Path | Element | Selector | Notes |
 |---|---|---|---|
-| `/` | `<input>` | `#search-input` | Visible when logged out |
-| `/` | `<button>` | `#search-button` | Visible when logged out |
+| `/` | `<input>` | `#search-input` | Always visible |
+| `/` | `<button>` | `#search-button` | Always visible  |
 | `/` | `<a>` | `#nav-login` | Visible when logged out; links to the login page |
 | `/login` | `<input>` | `input[name="username"]` | Takes the username, not the email |
 | `/login` | `<input type="password">` | `input[name="password"]` | |

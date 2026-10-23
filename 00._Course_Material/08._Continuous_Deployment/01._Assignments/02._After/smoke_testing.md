@@ -1,4 +1,4 @@
-# [Optional] Smoke testing
+# Smoke testing
 
 Add a smoke test to your setup. 
 
